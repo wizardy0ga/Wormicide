@@ -1,0 +1,3 @@
+# Credits
+
+The code within this directory belongs to the author [kali-linex](https://github.com/kali-linex). The code was sourced from their repository, [xworm-troll](https://github.com/kali-linex/xworm-troll). All credit for the code within this directory and the underlying research leading for the exploits goes to [kali-linex](https://github.com/kali-linex). Much apprecation for open sourcing your work on this!
